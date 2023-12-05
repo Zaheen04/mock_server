@@ -1,0 +1,89 @@
+{
+    "data": [
+        {
+            "id": "555",
+            "image_urls": [
+                "http://www.oliviafrescura.com/wp-content/uploads/2018/07/Glossier-New-Reformulated-Cloud-Paints-Dawn-Storm-Review-Swatches.jpg",
+                "https://i.pinimg.com/originals/91/5f/be/915fbeee620850daf254d944774b08d6.png"
+            ],
+            "name": "Cloud Paint",
+            "brand": "Cloud Paint",
+            "skin_type": "Acne Prone",
+            "product_type": "skinCare",
+            "price": "18.00",
+            "description": "SEAMLESS CHEEK COLOUR",
+            "reviews": {
+                "average_rating": 4.5,
+                "total_reviews": 60
+            }
+        },
+        {
+            "id": "777",
+            "image_urls": [
+                "https://tse4.mm.bing.net/th?id=OIP.iWJa8_yMAg0kydlrLA0poQHaHa&pid=Api&P=0&h=220",
+                "https://tse4.mm.bing.net/th?id=OIP.I4R5pX654pYhsriufhgwyAHaHa&pid=Api&P=0&h=220"
+            ],
+            "name": "Boy Braw",
+            "brand": "Boy Braw",
+            "skin_type": "Acne Prone",
+            "product_type": "skinCare",
+            "price": "220.00",
+            "description": "Grooming Promade",
+            "reviews": {
+                "average_rating": 4.9,
+                "total_reviews": 39
+            }
+        },
+        {
+            "id": "111",
+            "image_urls": [
+                "https://tse2.mm.bing.net/th?id=OIP.-fskBDuE9dQsNmIqiYfM4gHaHa&pid=Api&P=0&h=220",
+                "https://i.pinimg.com/736x/50/f0/7e/50f07eb736ab26bc6f48d827f651935b.jpg"
+            ],
+            "name": "Film Form Mascara",
+            "brand": "Film Form Mascara",
+            "skin_type": "Combination",
+            "product_type": "skinCare",
+            "price": "45.00",
+            "description": "Lash Stick",
+            "reviews": {
+                "average_rating": 4.2,
+                "total_reviews": 56
+            }
+        },
+        {
+            "id": "555",
+            "image_urls": [
+                "https://tse4.mm.bing.net/th?id=OIP.4W_NIyxdT0lO2UiMv6TnrwHaHa&pid=Api&P=0&h=220",
+                "https://tse4.mm.bing.net/th?id=OIP.IEfx2xFvmAkg-iX8RS4vPwHaGw&pid=Api&P=0&h=220"
+            ],
+            "name": "Sheer Matte Lipstick",
+            "brand": "Sheer Matte Lipstick",
+            "skin_type": "Mature",
+            "product_type": "skinCare",
+            "price": "11.10",
+            "description": "Generation G",
+            "reviews": {
+                "average_rating": 4.1,
+                "total_reviews": 24
+            }
+        },
+        {
+            "id": "101",
+            "image_urls": [
+              "https://tse1.mm.bing.net/th?id=OIP.9MAdqRE9i9GJb70tFfWFBgHaHa&pid=Api&P=0&h=220",
+              "https://tse3.mm.bing.net/th?id=OIP.lImFxJDvqP9uB8buZbp2UwHaHa&pid=Api&P=0&h=220"
+            ],
+            "name": "The Super Serum",
+            "brand": "The Super Serum",
+            "skin_type": "Oily",
+            "product_type": "skinCare",
+            "price": "153.00",
+            "description": "Gross Alpha",
+            "reviews": {
+              "average_rating": 4.8,
+              "total_reviews": 31
+            }
+          }
+        ]
+      }
